@@ -1,6 +1,6 @@
 # Transcribe YouTube Videos
 
-Get text transcripts for speech in YouTube videos.
+Get text transcripts for speech in YouTube videos. This project accompanies a blog post available at <https://developers.deepgram.com/blog/2021/11/transcribe-youtube-videos-nodejs/>
 
 ## Setup
 
